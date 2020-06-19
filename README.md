@@ -1,2 +1,0 @@
-# RestaurantManagementSystem
-Created with CodeSandbox
